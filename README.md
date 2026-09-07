@@ -4,7 +4,7 @@
 
 This repository contains the R code accompanying the manuscript:
 
-> **Cause-specific mortality burden of non-optimal daily temperature and extreme temperature events in China: A nationwide assessment using causal machine learning**
+> **Divergent mortality profiles of daily non-optimal temperature and sustained extremes: Doubly robust causal inference for case-crossover studies**
 
 The study developed a generalized augmented inverse probability weighting (AIPW) framework for individual-level, time-stratified case-crossover studies. The framework combines:
 

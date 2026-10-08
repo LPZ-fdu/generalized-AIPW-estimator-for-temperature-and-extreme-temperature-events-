@@ -4,7 +4,7 @@
 
 This repository contains the R code accompanying the manuscript:
 
-> **Divergent mortality profiles of daily non-optimal temperature and sustained extremes: Doubly robust causal inference for case-crossover studies**
+> **Contrasting cause-specific mortality burdens of daily non-optimal temperature and sustained extremes in China: a doubly robust analysis**
 
 The study developed a generalized augmented inverse probability weighting (AIPW) framework for individual-level, time-stratified case-crossover studies. The framework combines:
 
